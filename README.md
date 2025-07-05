@@ -1,3 +1,7 @@
+Login credentials:
+email: test@test.com
+password: admin
+
 These are the prompts to v0.dev used to create this project
 
 1.
